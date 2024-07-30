@@ -49,4 +49,4 @@ git push origin --delete tag v1.7
 
 
 add image 
-![Alt Text](images (1).jpg)
+![Alt Text](https://github.com/ABDULLAHTALLAT/my-local-repo/blob/main/images%20(1).jpg)
