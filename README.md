@@ -49,4 +49,4 @@ git push origin --delete tag v1.7
 
 
 add image 
-<img src="images/images(1).jpg" alt="Description">
+![Alt Text](images (1).jpg)
