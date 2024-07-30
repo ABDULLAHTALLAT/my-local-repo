@@ -25,3 +25,23 @@ git checkout <test>
 Apply Stashed Changes (if needed):
 
 git stash apply
+
+
+
+
+
+lab2
+● Tell me how to list tags.
+
+to List Tags:
+git tag
+
+
+
+● Tell me how to delete tag locally and remotely
+Delete a Tag Locally:
+
+git tag -d v1.7
+Delete a Tag Remotely:
+
+git push origin --delete tag v1.7
