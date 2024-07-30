@@ -50,3 +50,4 @@ git push origin --delete tag v1.7
 
 add image 
 ![Alt Text](https://github.com/ABDULLAHTALLAT/my-local-repo/blob/main/images%20(1).jpg)
+![Alt Text](https://github.com/ABDULLAHTALLAT/my-local-repo/blob/main/WhatsApp%20Image%202024-06-25%20at%209.33.59%20AM%20(1).jpeg)
